@@ -1,0 +1,15 @@
+# Ignore entire folders
+SREE_2025/
+SREE_2026/
+SRSM_2025/
+SRSM_2026/
+STEPP_update/
+Scripts/Data/
+
+# Ignore specific files
+Matt Prospectus 9-18-25.docx
+simulation_tables.xlsx
+
+# Ignore R files
+.DS_Store
+.Rhistory
